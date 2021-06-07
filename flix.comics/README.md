@@ -30,8 +30,8 @@ Tarefas interessantes ainda a fazer além daquelas de novos desafios que usem es
 
 - [ ] Teste automatizado;
 - [ ] Multilingua com i18n;
-- [ ] Melhorias na CLI;
+- [ ] Melhorias na CLI (Usar CommandLineParser.CommandLine lib ou System.CommandLine?);
 - [ ] Melhor tratamento de erros;
 - [ ] Ajuda ao rodar com `--help`;
-- [ ] Divisão entre FrontEnd e BackEnd;
+- [ ] Divisão entre FrontEnd e BackEnd (API);
 - [ ] ...
