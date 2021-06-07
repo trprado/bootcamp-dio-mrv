@@ -28,6 +28,7 @@ Segue uma lista de funcionalidades suportadas pela CLI inicial:
 
 Tarefas interessantes ainda a fazer além daquelas de novos desafios que usem esse projeto:
 
+- [ ] Usar commits assinados;
 - [ ] Teste automatizado;
 - [ ] Multilingua com i18n;
 - [ ] Melhorias na CLI (Usar CommandLineParser.CommandLine lib ou System.CommandLine?);
