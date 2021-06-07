@@ -1,6 +1,6 @@
 # Flix Comics
 
-Projeto de desafio DIO-RMV Bootcamp .NET com C#.
+Projeto de desafio DIO-MRV Bootcamp .NET com C#.
 
 ## Executando
 

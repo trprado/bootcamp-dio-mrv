@@ -1,9 +1,9 @@
-# DIO-RMV: Digital Inovation One Bootcamp
+# DIO-MRV: Digital Inovation One Bootcamp
 
-Esse é um respositório de projetos para o Bootcamp da RMV em parceria com a DIO.
+Esse é um respositório de projetos para o Bootcamp da MRV em parceria com a DIO.
 
 ## Tabela de Conteúdo
-- [DIO-RMV: Digital Inovation One Bootcamp](#dio-rmv-digital-inovation-one-bootcamp)
+- [DIO-MRV: Digital Inovation One Bootcamp](#dio-mrv-digital-inovation-one-bootcamp)
   - [Tabela de Conteúdo](#tabela-de-conteúdo)
   - [Projeto 1: Flix Comics](#projeto-1-flix-comics)
 
