@@ -1,0 +1,16 @@
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/bin/Debug/net5.0/flix.comics
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/bin/Debug/net5.0/flix.comics.deps.json
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/bin/Debug/net5.0/flix.comics.runtimeconfig.json
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/bin/Debug/net5.0/flix.comics.runtimeconfig.dev.json
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/bin/Debug/net5.0/flix.comics.dll
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/bin/Debug/net5.0/ref/flix.comics.dll
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/bin/Debug/net5.0/flix.comics.pdb
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.csprojAssemblyReference.cache
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.AssemblyInfoInputs.cache
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.AssemblyInfo.cs
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.csproj.CoreCompileInputs.cache
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.dll
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/ref/flix.comics.dll
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.pdb
+/mnt/A26EE3306EE2FBC3/Dev/dio-rmv/flix.comics/obj/Debug/net5.0/flix.comics.genruntimeconfig.cache

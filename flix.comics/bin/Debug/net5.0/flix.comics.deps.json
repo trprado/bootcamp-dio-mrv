@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "flix.comics/34": {
+        "runtime": {
+          "flix.comics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "flix.comics/34": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
